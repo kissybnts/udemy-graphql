@@ -27,6 +27,12 @@
       "firstName": "Alex",
       "age": 23,
       "id": "yzshD3a"
+    },
+    {
+      "firstName": "Nick",
+      "age": 19,
+      "companyId": "1",
+      "id": "g1bOE5E"
     }
   ],
   "companies": [
